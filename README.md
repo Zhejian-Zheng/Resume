@@ -26,15 +26,23 @@ UNSW Weighted Average Mark (WAM): 77.5 <br />
 
 ## Skills
 **Algorithms & Data Structures** <br />
-&emsp;Knowledge of time/space complexity, dynamic programming, graph algorithms, and greedy methods. Hands-on experience with linked lists, trees, graphs, hash tables, and heaps. <br />
+Knowledge of time/space complexity, dynamic programming, graph algorithms, and greedy methods. Hands-on experience with linked lists, trees, graphs, hash tables, and heaps. <br />
+<br />
 **Systems & Low-Level Programming** <br />
-&emsp;Understanding of memory management, processes, and assembly-level programming; Software construction in Linux: Built POSIX-compliant shell scripts and Python tools, focusing on modular design and maintainability <br /> **Programming & Software Development** <br />
-&emsp;Experienced in agile workflows, Git-based version control, unit testing, and code reviews, ensuring maintainable and collaborative software development <br />
+Understanding of memory management, processes, and assembly-level programming; Software construction in Linux: Built POSIX-compliant shell scripts and Python tools, focusing on modular design and maintainability <br /> 
+<br />
+**Programming & Software Development** <br />
+Experienced in agile workflows, Git-based version control, unit testing, and code reviews, ensuring maintainable and collaborative software development <br />
+<br />
 **Computer Networking** <br />
-&emsp;Knowledge of TCP/IP, transport protocols, socket programming, and client-server architectures; <br />
+Knowledge of TCP/IP, transport protocols, socket programming, and client-server architectures; <br />
+<br />
 **Database system** <br />
-&emsp;Solid SQL and PostgreSQL skills. Able to design schemas, optimize queries, and build relational data pipelines. <br />
+Solid SQL and PostgreSQL skills. Able to design schemas, optimize queries, and build relational data pipelines. <br />
+<br />
 **Human-Computer Interaction** <br />
-&emsp;Can skillfully create interactive prototypes, conducted heuristic evaluations, and performed usability testing <br />
+Can skillfully create interactive prototypes, conducted heuristic evaluations, and performed usability testing <br />
+<br />
 **Multiple programming language experience** <br />
-&emsp;Proficient in Java, C, C++, Python, and Rust with hands-on experience across multiple academic and project-based contexts. <br />
+Proficient in Java, C, C++, Python, and Rust with hands-on experience across multiple academic and project-based contexts. <br />
+<br />
