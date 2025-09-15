@@ -26,7 +26,7 @@ UNSW Weighted Average Mark (WAM): 77.5 <br />
 
 ## Skills
 **Algorithms & Data Structures** <br />
-Knowledge of time/space complexity, dynamic programming, graph algorithms, and greedy methods. Hands-on experience with linked lists, trees, graphs, hash tables, and heaps. <br />
+"\t" Knowledge of time/space complexity, dynamic programming, graph algorithms, and greedy methods. Hands-on experience with linked lists, trees, graphs, hash tables, and heaps. <br />
 **Systems & Low-Level Programming** <br />
 Understanding of memory management, processes, and assembly-level programming; Software construction in Linux: Built POSIX-compliant shell scripts and Python tools, focusing on modular design and maintainability <br /> **Programming & Software Development** <br />
 Experienced in agile workflows, Git-based version control, unit testing, and code reviews, ensuring maintainable and collaborative software development <br />
