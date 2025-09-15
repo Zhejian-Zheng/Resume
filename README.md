@@ -1,8 +1,8 @@
 # Zhejian Zheng
 ## Biography
-__Citizenship__: China <br />
-Languages:   English, Mandarin <br />
-Work Rights: Australian Student Visa <br />
+**Citizenship**: China <br />
+**Languages**:   English, Mandarin <br />
+**Work Rights**: Australian Student Visa <br />
 ## Personal Statement
 My name is Zhejian Zheng, a junior computer science student at UNSW. I will complete the required graduation courses by the end of 2025 and graduate in early 2026.
 
