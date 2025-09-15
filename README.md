@@ -46,3 +46,11 @@ Can skillfully create interactive prototypes, conducted heuristic evaluations, a
 **Multiple programming language experience** <br />
 Proficient in Java, C, C++, Python, and Rust with hands-on experience across multiple academic and project-based contexts. <br />
 <br />
+
+## Interests & Hobbies
+**Building side projects** <br />
+I am a person who pursues convenience and efficiency. When I was studying, I liked to write some scripts to improve my efficiency, such as writing a shell script to create markdown files from week 1 to week 10 at one time to take notes, or folders to classify weekly content. <br />
+<br />
+
+**Traveling** <br />
+Traveling is very inspiring and can broaden my horizons. Understanding the culture, religious beliefs and languages ​​of different countries and regions can help me quickly integrate into social activities and a diverse work environment. At work, I can make reasonable plans based on my understanding of different regional cultures.
