@@ -4,7 +4,11 @@
 **Languages**:   English, Mandarin <br />
 **Work Rights**: Australian Student Visa <br />
 ## Personal Statement
-My name is Zhejian Zheng, a junior computer science student at UNSW. I will complete the required graduation courses by the end of 2025 and graduate in early 2026.
+<ul>
+  <li>Motivated Computer Science student (Distinction WAM) with strong teamwork and client communication skills.</li>
+  <li>Hands-on experience in full-stack development across Python, Rust, Java, C++ and JavaScript, with projects involving web scraping, system simulation, and backend design. </li>
+  <li>Skilled in agile workflows, Git-based version control, and cloud technologies, eager to contribute to impactful software solutions.</li>
+</ul>
 
 **School experience:** <br />
 During my undergraduate studies in computer science, I laid a solid foundation in programming, algorithms, data operations, systems and many other computer technologies.
